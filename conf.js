@@ -42,10 +42,9 @@ jsproxy_config({
 
         // 免费版（低权重，分摊一些成本）
         // 每个账号每天 10 万次免费请求，但有频率限制
-        //'b.007.workers.dev': 1,
-        //'b.hehe.workers.dev': 1,
-        //'b.lulu.workers.dev': 1,
-        //'b.jsproxy.workers.dev': 1,
+        'bu.link1.workers.dev': 1,
+        'bu.link2.workers.dev': 1,
+        'bu.link3.workers.dev': 1,
       }
     }
   },
